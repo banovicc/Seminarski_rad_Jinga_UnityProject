@@ -1,21 +1,17 @@
-# Jinga - Unity Projekt
+# Jinga - Unity Project
+This project was created as a seminar assignment for the Object-Oriented Programming course. Jinga is a simple two-player game where you must avoid objects falling from the sky. The rules are simple: the player who gets hit by an object first loses!
 
-Ovaj projekt je napravljen kao seminarski rad za kolegij Objektno Orjentiranog Programiranja. Jinga je jednostavna igra za dva igrača u kojoj morate izbjegavati objekte koji padaju s neba. Pravila su jednostavna: igrač koji bude pogodjen objektom prvi, gubi!
+## Installation
+1. Clone this repository to your PC.
+2. Open the project in Unity3D.
+3. Run the game.
 
-## Instalacija
+## How to Play
+1. Start the game.
+2. Player 1 uses the arrow keys to move left and right.
+3. Player 2 uses the A and D keys to move left and right.
+4. Avoid the objects falling from the sky.
+5. The first player to get hit by an object loses!
 
-1. Klonirajte ovaj repository na vaš PC.
-2. Otvorite Unity3D projekt.
-3. Pokrenite igru.
-
-## Kako igrati
-
-1. Pokrenite igru.
-2. Igrač 1 koristi tipke sa strelicama za kretanje lijevo i desno.
-3. Igrač 2 koristi tipke A i D za kretanje lijevo i desno.
-4. Izbjegavajte objekte koji padaju s neba.
-5. Prvi igrač koji bude pogodjen objektom gubi!
-
-## Prilagodbe i Dodaci
-
-Ovaj projekt je napravljen koristeći Unity3D i C# programski jezik. Možete prilagoditi igru dodavanjem novih objekata ili promjenom brzine kojom objekti padaju.
+## Customizations and Additions
+This project was created using Unity3D and the C# programming language. You can customize the game by adding new objects or changing the speed at which objects fall.
